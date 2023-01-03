@@ -1,0 +1,31 @@
+ignoreFiles:
+  - "content/projects/.*"
+  - "content/articles/.*"
+
+baseURL: https://siroky.dev
+theme: charlolamode
+title: siroky.dev
+copyright: " "
+params:
+  author: Petr Široký
+  profileMode:
+    enabled: true
+    title: Petr Široký
+    description: |
+      I am a Software Engineer, generally interested in the Java world, CI/CD,
+      security and good development practices.
+    buttons:
+  mainSections:
+  socialIcons:
+    - name: github
+      url: "https://github.com/psiroky"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/petr-siroky/"
+  ShowShareButtons: false
+  ShowReadingTime: false
+
+menu:
+  main:
+    - name: Contact
+      url: contact/
+      weight: 30
