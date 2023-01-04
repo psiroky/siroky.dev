@@ -9,7 +9,7 @@ If you have a short message or question, drop a message via [LinkedIn](https://w
 
 
 #### E-mail
-For enquiries or longer messages, please email me: __petr.siroky (at) proton.me__
+For enquiries or longer messages, please email me: __petr (at) siroky.dev__
 
 
 
