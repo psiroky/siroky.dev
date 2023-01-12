@@ -5,7 +5,7 @@ ignoreFiles:
 baseURL: https://siroky.dev
 theme: charlolamode
 title: siroky.dev
-copyright: " "
+copyright: "&#169; 2023 Petr Široký. Powered by  [Hugo](https://gohugo.io) using the [charlolamode](https://themes.gohugo.io/themes/hugo-theme-charlolamode/) theme."
 params:
   author: Petr Široký
   profileMode:
