@@ -1,0 +1,44 @@
+baseURL = "https://siroky.dev"
+title = "siroky.dev"
+theme = "hello-friend-ng"
+copyright = "&copy; 2026"
+
+enableRobotsTXT = true
+
+[params]
+  description = "Personal website of Petr Široký"
+  title = "abs"
+  homeSubtitle = "I am a Software Engineer, generally interested in the Java world, CI/CD, security and good development practices."
+  enableThemeToggle = true
+  enableSharingButtons = false
+  enableReadingTime = false
+
+  [params.author]
+    name = "Petr Široký"
+
+  [params.portrait]
+    path = "/images/profile.png"
+    alt = "Petr Široký"
+    maxWidth = "150px"
+
+  [params.footer]
+    rss = false
+    copyright = true
+    author = true
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"https://gohugo.io\">Hugo</a> using the <a href=\"https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/\">hello-friend-ng</a> theme.",
+    ]
+
+  [params.logo]
+    logoMark = ">"
+    logoText = "$ cd /home/psiroky"
+    logoHomeLink = "/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/psiroky"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/petr-siroky/"
